@@ -1,2 +1,11 @@
 # SignTraffic
-Hi to SignTraffic, A bangkit 2023 product capstone project by C23-PS203
+
+Insert pictures here
+Insert pictures here
+
+## Discover the world of traffic signs and become a knowledgeable driver with our Android traffic sign app's intuitive learning and educational features.
+
+About
+
+
+
