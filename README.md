@@ -9,7 +9,7 @@ Insert pictures here
 aa
 
 # Bangkit Product-base Capstone Project
-Sign Traffic is built as a requirement for Bangkit 2023's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below)
+Road Sign Traffic (RSS) is built as a requirement for Bangkit 2023's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below)
 
 # Team Members
 | Name                            | Student ID | Path                | Contacts                                     |
