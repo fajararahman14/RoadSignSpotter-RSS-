@@ -25,5 +25,5 @@ Sign Traffic is built as a requirement for Bangkit 2023's Product-based Capstone
 | Paths | Link |
 | :--:  | :--: |
 | Mobile Development | [[GitHub Mobile Development Repository URL]](https://github.com/StringLAX/RoadSignSpotter) |
-| Machine Learning | [GitHub Machine Learning Repository URL] |
+| Machine Learning | [[GitHub Machine Learning Repository URL]](https://github.com/ilman79/Machine-Learning) |
 | Cloud Computing | [[GitHub Cloud Computing Repository URL]](https://github.com/work-ham/RSS-API) |
