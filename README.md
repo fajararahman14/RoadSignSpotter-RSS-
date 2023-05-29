@@ -6,7 +6,8 @@ Insert pictures here
 ## Discover the world of traffic signs and become a knowledgeable driver with our Android traffic sign app's intuitive learning and educational features.
 
 # About
-aa
+The level of public knowledge in recognizing the meaning of traffic signs is still lacking. Not everyone has sufficient knowledge about traffic signs, and often people have difficulty in recognizing the meaning of certain traffic signs, especially when in unfamiliar areas. This can lead to violations of traffic rules and can also cause accidents.
+
 
 # Bangkit Product-base Capstone Project
 Road Sign Traffic (RSS) is built as a requirement for Bangkit 2023's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below)
