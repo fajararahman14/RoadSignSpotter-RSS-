@@ -1,4 +1,4 @@
-# RoadSignTraffic
+# RoadSignSpotter
 
 Insert pictures here
 Insert pictures here
@@ -10,7 +10,7 @@ The level of public knowledge in recognizing the meaning of traffic signs is sti
 
 
 # Bangkit Product-base Capstone Project
-Road Sign Traffic (RSS) is built as a requirement for Bangkit 2023's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below)
+Road Sign Spotter (RSS) is built as a requirement for Bangkit 2023's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below)
 
 # Team Members
 | Name                            | Student ID | Path                | Contacts                                     |
