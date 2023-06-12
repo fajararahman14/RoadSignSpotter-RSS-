@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://i.ibb.co/9VcJNHz/logo-rss.png" width="150" height="150" /> </p>
 
 
-## Discover the world of traffic signs and become a knowledgeable driver with our Android traffic sign app's intuitive learning and educational features.
+## Discover the world of traffic signs and become a knowledgeable driver with our Android traffic sign app's.
 
 # About
 The level of public knowledge in recognizing the meaning of traffic signs is still lacking. Not everyone has sufficient knowledge about traffic signs, and often people have difficulty in recognizing the meaning of certain traffic signs, especially when in unfamiliar areas. This can lead to violations of traffic rules and can also cause accidents.
